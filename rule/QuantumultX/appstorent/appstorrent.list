@@ -1,0 +1,9 @@
+# NAME: appstorrent
+# AUTHOR: supermanc88
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2024-11-13 16:12:40
+# HOST: 1
+# HOST-SUFFIX: 0
+# TOTAL: 1
+HOST,appstorrent.ru,appstorrent
+HOST,appstorrent.org,appstorrent
